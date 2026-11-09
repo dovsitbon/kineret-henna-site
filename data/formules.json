@@ -1,0 +1,9 @@
+{
+  "_note": "Formules À CONFIRMER avec Kineret : contenu exact et prix. priceFrom en shekels (null = « prix sur devis »). Les textes sont dans locales/*.json → formulas.items (même ordre). includes : clés de locales → formulas.inclusions.",
+  "items": [
+    { "id": "full", "image": "/media/decors/table-douceurs-lanternes.jpg", "priceFrom": null, "includes": ["decor", "outfitsCouple", "outfitsFamily", "accessories", "trays", "ceremony", "team"] },
+    { "id": "decor", "image": "/media/decors/trone-voilages.jpg", "priceFrom": null, "includes": ["decor", "trays", "setup"] },
+    { "id": "outfits", "image": "/media/tenues-mariee/kaftan-blanc-brode.jpg", "priceFrom": null, "includes": ["outfitsCouple", "outfitsFamily", "accessories", "fitting", "dresser"] },
+    { "id": "intimate", "image": "/media/decors/coussins-arches-blanches.jpg", "priceFrom": null, "includes": ["decorLight", "outfitsCouple", "trays"] }
+  ]
+}

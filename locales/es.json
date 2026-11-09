@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "title": "Producción de henna marroquí – trajes, decoración y producción completa | Kineret",
+    "description": "Kineret produce noches de henna marroquí llave en mano en Israel: decoración, trajes tradicionales para la novia, el novio y la familia, accesorios, ceremonia y ambiente. Consulta tu fecha: +972 54-808-2038.",
+    "ogAlt": "Sala de henna en una carpa roja con sillón real y taburetes de terciopelo – Kineret"
+  },
+  "intro": {
+    "skip": "Saltar"
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "home": "Kineret, eventos de henna – inicio",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "language": "Idioma",
+    "productions": "Producciones de henna",
+    "outfits": "Trajes",
+    "design": "Decoración",
+    "events": "Eventos",
+    "about": "Sobre mí",
+    "contact": "Contacto",
+    "check": "Consultar fecha",
+    "call": "Llamar"
+  },
+  "announce": {
+    "close": "Cerrar el aviso"
+  },
+  "hero": {
+    "eyebrow": "Henna marroquí · Trajes · Decoración",
+    "title": "Creamos momentos marroquíes",
+    "text": "Tu noche de henna, desde la primera tela hasta el último zagharit: decoración, trajes para la novia, el novio y toda la familia, ceremonia y ambiente. Nosotros nos ocupamos de todo.",
+    "cta": "Consultar fecha",
+    "secondary": "Ver nuestros eventos",
+    "proof": "{n} seguidores en Instagram",
+    "posts": "Más de {n} momentos compartidos"
+  },
+  "services": {
+    "eyebrow": "Lo que producimos",
+    "title": "Cada noche de henna, tal como la soñaste",
+    "cta": "Más detalles",
+    "items": [
+      {
+        "id": "full",
+        "name": "Producción completa",
+        "text": "Nos encargamos de toda la noche: decoración, trajes, ceremonia, bandejas de henna y ambiente. Tú solo llegas y disfrutas."
+      },
+      {
+        "id": "decor",
+        "name": "Decoración y montaje",
+        "text": "Rincón de la novia, sillones reales, alfombras, faroles y mesa de dulces: la sala se convierte en Marruecos."
+      },
+      {
+        "id": "outfits",
+        "name": "Trajes para la novia y la familia",
+        "text": "Caftanes, takchitas y capas para la novia, el novio, los padres y los hermanos, con accesorios y joyas a juego."
+      },
+      {
+        "id": "intimate",
+        "name": "Henna íntima en casa",
+        "text": "Una noche pequeña y familiar, en casa o en el jardín, con el mismo cuidado y la misma magia."
+      }
+    ]
+  },
+  "formulas": {
+    "eyebrow": "Paquetes",
+    "title": "Qué incluye cada paquete",
+    "text": "Cada noche se construye a tu medida, pero para que lo tengas claro, así es como funciona. Los detalles los definimos juntas en la reunión.",
+    "from": "Desde {price}",
+    "onRequest": "Precio a consultar",
+    "includesLabel": "Incluye",
+    "cta": "Consultar fecha",
+    "inclusions": {
+      "decor": "Decoración completa del espacio y rincón de la novia",
+      "decorLight": "Decoración compacta para casa o jardín",
+      "outfitsCouple": "Trajes para la novia y el novio",
+      "outfitsFamily": "Trajes para los padres y la familia cercana",
+      "accessories": "Accesorios, coronas y joyas",
+      "trays": "Bandejas de henna y velas",
+      "ceremony": "Acompañamiento de la ceremonia y las entradas",
+      "team": "Equipo de vestuario y producción el día del evento",
+      "setup": "Montaje y desmontaje en el lugar",
+      "fitting": "Prueba de trajes en el estudio",
+      "dresser": "Una vestidora junto a la novia durante la noche"
+    },
+    "items": [
+      {
+        "name": "Producción completa",
+        "text": "Todo en un solo lugar, de la decoración al último baile."
+      },
+      {
+        "name": "Decoración y montaje",
+        "text": "Para parejas que ya tienen sus trajes y quieren un espacio marroquí de verdad."
+      },
+      {
+        "name": "Trajes",
+        "text": "Nuestra colección, con prueba y una vestidora a tu lado."
+      },
+      {
+        "name": "Henna íntima",
+        "text": "Para una noche pequeña en casa: sencilla, cálida y cuidada."
+      }
+    ]
+  },
+  "outfits": {
+    "eyebrow": "La colección",
+    "title": "Trajes de henna",
+    "text": "Caftanes bordados a mano, terciopelo, satén y pedrería, en colores que no olvidarás. Cada traje viene con sus accesorios.",
+    "filters": {
+      "all": "Todo",
+      "mariee": "Novia",
+      "marie": "Novio",
+      "famille": "Familia",
+      "enfants": "Niños"
+    },
+    "empty": "Las fotos de esta categoría están en camino. Mientras tanto, ven a verlo todo al estudio.",
+    "cta": "Reservar una prueba",
+    "label": "Filtrar trajes",
+    "more": "Ver todos los trajes"
+  },
+  "blocks": [
+    {
+      "id": "tradition",
+      "eyebrow": "La tradición",
+      "title": "Una henna marroquí como la de la abuela, pero más bonita",
+      "text": "La henna es la noche en que la familia rodea a la novia. Conservamos el ritual, los colores y los cantos, y los vestimos con el diseño de hoy.",
+      "cta": "Ver los trajes"
+    },
+    {
+      "id": "design",
+      "eyebrow": "El día de la henna",
+      "title": "Del montaje al último zagharit",
+      "text": "Llegamos temprano, montamos el rincón de la novia y las mesas, te vestimos a ti y a tu familia, y acompañamos las entradas y la ceremonia. Tú solo tienes que estar.",
+      "cta": "Nuestras producciones"
+    },
+    {
+      "id": "meeting",
+      "eyebrow": "Antes del evento",
+      "title": "Nos vemos, probamos, planeamos",
+      "text": "Todo empieza con una cita en el estudio: nos conocemos, te pruebas los trajes y construimos la noche juntas. ¿Prefieres una videollamada? También es posible.",
+      "cta": "Consultar fecha"
+    }
+  ],
+  "events": {
+    "eyebrow": "Eventos que producimos",
+    "title": "Noches de henna recientes",
+    "text": "Cada noche es distinta y cada familia tiene su historia. Cientos de momentos más te esperan en Instagram.",
+    "venues": {
+      "garden": "Henna en un jardín de eventos",
+      "pool": "Henna junto a la piscina",
+      "hall": "Henna en salón",
+      "outdoor": "Henna al aire libre"
+    },
+    "guests": "{n} invitados",
+    "more": "Más eventos en Instagram"
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "title": "Con la ayuda de Dios, lo haremos y lo lograremos",
+    "p1": "Kineret nació del amor por la tradición marroquí y por los momentos que crea: la novia con su caftán, los zagharits, la familia reunida alrededor de la bandeja de henna.",
+    "p2": "Trajes y producciones completas salen de nuestro estudio con un solo objetivo: que tu noche se sienta exactamente como la soñaste.",
+    "quote": "«Creamos momentos marroquíes»",
+    "cta": "Reservar una cita"
+  },
+  "stats": {
+    "followers": "seguidores en Instagram",
+    "facebook": "seguidores en Facebook",
+    "events": "noches de henna producidas",
+    "posts": "publicaciones"
+  },
+  "reviews": {
+    "eyebrow": "Lo que dicen las novias",
+    "title": "«Entré en un cuento marroquí»",
+    "source": "Opinión en {source}, {date}",
+    "translated": "Traducido del hebreo",
+    "cta": "Todas las opiniones"
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Antes de reservar la fecha",
+    "items": [
+      {
+        "q": "¿Con cuánta antelación hay que reservar?",
+        "a": "En cuanto tengas la fecha de la boda. En temporada las fechas se agotan rápido, así que conviene consultar la disponibilidad cuanto antes."
+      },
+      {
+        "q": "¿A qué zonas llegáis?",
+        "a": "Cuéntanos dónde será el evento y revisaremos juntas la disponibilidad y el desplazamiento."
+      },
+      {
+        "q": "¿Cuántos trajes están incluidos?",
+        "a": "Depende del paquete y del tamaño de la familia. En la reunión elegimos juntas los trajes de la novia, el novio y la familia."
+      },
+      {
+        "q": "¿Los trajes se alquilan o se venden?",
+        "a": "Los trajes forman parte de la producción de la noche de henna. ¿Tienes una pregunta sobre una pieza concreta? Escríbenos."
+      },
+      {
+        "q": "¿Puedo venir a probármelos?",
+        "a": "Claro. Las pruebas se hacen en el estudio, con cita previa, para que cada traje te quede perfecto."
+      },
+      {
+        "q": "¿Cómo se reserva una fecha?",
+        "a": "Después de la reunión y de elegir el paquete, la fecha se reserva con una seña. Todos los detalles los cerramos juntas."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Consultar fecha",
+    "title": "Cuéntanos sobre tu noche de henna",
+    "text": "Completa algunos datos y el mensaje nos llega por WhatsApp. Te responderemos con disponibilidad y un presupuesto.",
+    "steps": {
+      "event": "El evento",
+      "wishes": "Lo que quieres",
+      "contact": "Tus datos"
+    },
+    "fields": {
+      "date": "Fecha de la henna",
+      "dateTaken": "Esta fecha ya está reservada. Escríbenos igualmente, quizá haya una solución.",
+      "dateFree": "Esta fecha todavía está libre.",
+      "venue": "Dónde será el evento",
+      "venues": {
+        "hall": "Salón o jardín de eventos",
+        "home": "En casa",
+        "outdoor": "Al aire libre"
+      },
+      "city": "Ciudad",
+      "cityPlaceholder": "p. ej. Rishon LeZion",
+      "guests": "Número de invitados",
+      "formula": "Lo que te interesa",
+      "formulas": {
+        "full": "Producción completa",
+        "decor": "Decoración",
+        "outfits": "Trajes",
+        "intimate": "Henna íntima",
+        "unsure": "Aún no lo sé"
+      },
+      "outfitsCount": "Número aproximado de trajes",
+      "budget": "Presupuesto",
+      "budgetPlaceholder": "Opcional",
+      "name": "Nombre completo",
+      "phone": "Teléfono",
+      "message": "Algo que debamos saber",
+      "messagePlaceholder": "Colores, estilo, número de entradas…",
+      "optional": "opcional"
+    },
+    "required": "Campo obligatorio",
+    "invalidPhone": "Este número no parece válido",
+    "submit": "Enviar por WhatsApp",
+    "hint": "No se guarda ningún dato en el sitio. El mensaje se abre en WhatsApp y lo envías tú.",
+    "success": {
+      "thanks": "Gracias",
+      "title": "Tu mensaje está listo en WhatsApp",
+      "text": "Si WhatsApp no se abrió, pulsa el botón. Te responderemos pronto.",
+      "again": "Abrir WhatsApp",
+      "reset": "Consultar otra fecha"
+    },
+    "message": {
+      "title": "Consulta de fecha – noche de henna",
+      "date": "Fecha",
+      "venue": "Lugar",
+      "city": "Ciudad",
+      "guests": "Invitados",
+      "formula": "Me interesa",
+      "outfits": "Trajes (aprox.)",
+      "budget": "Presupuesto",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "message": "Mensaje",
+      "closing": "Enviado desde el sitio de Kineret, eventos de henna"
+    }
+  },
+  "mobile": {
+    "check": "Consultar fecha",
+    "whatsapp": "WhatsApp"
+  },
+  "whatsapp": {
+    "hello": "Hola Kineret, me gustaría saber más sobre la producción de una noche de henna",
+    "float": "Escríbenos por WhatsApp"
+  },
+  "footer": {
+    "tagline": "Producción de henna marroquí, trajes y decoración. Creamos momentos marroquíes.",
+    "contact": "Contacto",
+    "explore": "En el sitio",
+    "studio": "Estudio en {city}, con cita previa",
+    "rights": "Todos los derechos reservados",
+    "photos": "Todas las fotos del sitio son de eventos y producciones de Kineret",
+    "legal": "Aviso legal"
+  },
+  "legal": {
+    "title": "Aviso legal",
+    "back": "Volver al inicio",
+    "items": [
+      {
+        "h": "Titular del sitio",
+        "p": "Kineret – כנרת אירועי חינה. Teléfono: +972 54-808-2038. Datos completos de la empresa: por completar."
+      },
+      {
+        "h": "Alojamiento",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, EE. UU."
+      },
+      {
+        "h": "Privacidad",
+        "p": "El sitio no recoge ni guarda datos personales. El formulario solo prepara un mensaje de WhatsApp que envías tú. Sin cookies de seguimiento."
+      },
+      {
+        "h": "Fotos",
+        "p": "Todas las fotos pertenecen a Kineret y a los fotógrafos que trabajaron con ella. Prohibida su reproducción sin permiso."
+      }
+    ]
+  },
+  "alt": {
+    "kaftan-arche": "Novia con caftán blanco bordado de flores frente a un arco marroquí color terracota",
+    "tente-rouge": "Dos mujeres de blanco en un sillón real rojo, en una carpa de henna con cortinas rojas",
+    "kaftan-blanc-brode": "Caftán blanco largo bordado de flores de colores",
+    "robe-perlee-argent": "Vestido de pedrería plata con escote, junto a una mesa de dulces marroquíes",
+    "takchita-rouge": "Takchita roja con galón dorado y mangas anchas",
+    "velours-emeraude": "Conjunto de terciopelo esmeralda, top y falda anudada",
+    "jupe-perlee-rose": "Top de satén rosa y falda de pedrería multicolor frente a un muro de barro",
+    "ensemble-safran": "Conjunto amarillo azafrán con capa y galones de pedrería",
+    "cape-franges-or": "Capa con flecos dorados sobre falda negra",
+    "resille-perlee-blanche": "Traje de malla blanca con pedrería frente a una puerta marroquí",
+    "caftan-ciel": "Caftán celeste largo con tirantes de pedrería",
+    "drape-perle-rose": "Vestido rosa fluido con pedrería frente a una pared pintada",
+    "manteau-bordeaux-or": "Abrigo burdeos bordado en oro sobre un conjunto color arena",
+    "bustier-or-jupe-tissee": "Corpiño dorado y falda tejida a rayas",
+    "caftan-ivoire-traine": "Caftán marfil con cola y bordado dorado en un riad",
+    "satin-dore-drape": "Conjunto de satén dorado drapeado frente a una puerta de madera tallada",
+    "kaftan-vert-brode": "Caftán verde oscuro bordado en oro, de noche",
+    "jupe-plumes-rose": "Falda de plumas rosa y top de pedrería sobre una alfombra marroquí",
+    "caftan-pastel-raye": "Caftán largo con rayas pastel bordadas sobre fondo amarillo",
+    "ensemble-anis-brode": "Conjunto verde anís bordado con capa, en un sillón dorado",
+    "caftan-creme-manches": "Caftán crema de mangas amplias y cinturón bordado",
+    "turban-perle-nude": "Conjunto nude de pedrería con turbante",
+    "cape-blanche-ecuries": "Vestido capa blanco amplio con bordado rosa",
+    "dentelle-blanche-traine": "Conjunto de encaje blanco con cola larga",
+    "imprime-bleu-trone": "Vestido estampado azul y blanco frente a un sillón abanico dorado",
+    "resille-cristal": "Vestido de malla de cristales en tono rosado",
+    "couple-djellaba-safran": "Novio con chilaba blanca y novia con conjunto amarillo azafrán",
+    "couple-gandoura-plumes": "Novio con gandura blanca y fez, novia con falda de plumas",
+    "couple-brode-ivoire": "Novios con trajes marfil bordados",
+    "marie-manteau-tisse": "Túnica tejida multicolor frente a un muro de piedra",
+    "marie-manteau-detail": "Detalle de una túnica tejida con bordado en hebreo",
+    "table-douceurs-lanternes": "Mesa de dulces marroquíes con faroles de cobre y pared vegetal",
+    "trone-voilages": "Sillón de novia blanco bajo cortinas turquesa y cobre",
+    "coussins-arches-blanches": "Cojines blancos sobre una alfombra frente a arcos marroquíes blancos",
+    "table-piscine": "Mesa larga decorada junto a la piscina",
+    "salon-moucharabieh": "Salón blanco con celosías marroquíes y mesas redondas",
+    "plateaux-lanternes": "Bandejas de dulces iluminadas bajo decenas de faroles marroquíes",
+    "salle-lanternes": "Salón de henna con faroles colgantes y mesas puestas",
+    "trone-eventail-or": "Sillón abanico dorado en el rincón de la novia",
+    "soiree-piscine-lustres": "Mesas redondas con lámparas de araña junto a una piscina en una noche de henna",
+    "arches-blanches-piscine": "Arcos marroquíes blancos junto a una piscina",
+    "soiree-safran": "Pareja con trajes blanco y azafrán en una henna al aire libre",
+    "nuit-bougies-tapis": "Novia con falda de plumas junto a una piscina rodeada de velas",
+    "grande-salle-lanternes": "Gran salón con faroles y mesas de dulces",
+    "salon-blanc-couple": "Pareja con trajes bordados en un salón marroquí blanco",
+    "riad-caftan-blanc": "Caftán blanco en un riad con azulejos zellige",
+    "porte-sculptee": "Caftán blanco frente a una puerta de madera tallada",
+    "broderie-or-portrait": "Detalle de bordado dorado en un caftán blanco",
+    "atelier-tissus": "Taller de telas en Marruecos",
+    "arche-desert": "Arco de barro en el desierto",
+    "arche-ocre": "Traje marrón brillante bajo un arco de barro",
+    "showroom-logo": "Vestido blanco frente al logo de Kineret en el estudio",
+    "bracelets-mains": "Pulseras doradas en las manos de la novia",
+    "satin-mer": "Caftán de satén marfil frente al mar al atardecer"
+  }
+}

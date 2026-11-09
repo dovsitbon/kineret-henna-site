@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "title": "Production de henné marocain – tenues, décor et production complète | Kineret",
+    "description": "Kineret produit des soirées henné marocaines clés en main en Israël : décor, tenues traditionnelles pour la mariée, le marié et la famille, accessoires, cérémonie et ambiance. Vérifier une date : +972 54-808-2038.",
+    "ogAlt": "Salon de henné sous une tente rouge, fauteuil royal et tabourets en velours – Kineret"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "Kineret, soirées henné – accueil",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue",
+    "productions": "Productions henné",
+    "outfits": "Tenues",
+    "design": "Décor",
+    "events": "Soirées",
+    "about": "À propos",
+    "contact": "Contact",
+    "check": "Vérifier une date",
+    "call": "Appeler"
+  },
+  "announce": {
+    "close": "Fermer l’annonce"
+  },
+  "hero": {
+    "eyebrow": "Henné marocain · Tenues · Décor",
+    "title": "Nous créons des moments marocains",
+    "text": "Votre soirée henné, du premier drapé jusqu’au dernier youyou : décor, tenues pour la mariée, le marié et toute la famille, cérémonie et ambiance. Tout est pris en charge.",
+    "cta": "Vérifier une date",
+    "secondary": "Voir nos soirées",
+    "proof": "{n} abonnés sur Instagram",
+    "posts": "Plus de {n} moments partagés"
+  },
+  "services": {
+    "eyebrow": "Ce que nous produisons",
+    "title": "Chaque soirée henné, exactement comme vous l’avez rêvée",
+    "cta": "En savoir plus",
+    "items": [
+      {
+        "id": "full",
+        "name": "Production complète",
+        "text": "Nous prenons toute la soirée en main : décor, tenues, cérémonie, plateaux de henné et ambiance. Vous n’avez qu’à arriver et profiter."
+      },
+      {
+        "id": "decor",
+        "name": "Décor et mise en scène",
+        "text": "Coin de la mariée, fauteuils royaux, tapis, lanternes et table de douceurs : la salle devient le Maroc."
+      },
+      {
+        "id": "outfits",
+        "name": "Tenues pour la mariée et la famille",
+        "text": "Caftans, takchitas et capes pour la mariée, le marié, les parents et la fratrie, avec accessoires et bijoux assortis."
+      },
+      {
+        "id": "intimate",
+        "name": "Henné intime à la maison",
+        "text": "Une petite soirée en famille, à la maison ou au jardin, avec le même soin et la même magie."
+      }
+    ]
+  },
+  "formulas": {
+    "eyebrow": "Les formules",
+    "title": "Ce que comprend chaque formule",
+    "text": "Chaque soirée se construit autour de vous ; pour y voir clair, voici les grandes lignes. Les détails se décident ensemble, lors du rendez-vous.",
+    "from": "À partir de {price}",
+    "onRequest": "Prix sur devis",
+    "includesLabel": "Inclus",
+    "cta": "Vérifier une date",
+    "inclusions": {
+      "decor": "Décor complet de la salle et coin de la mariée",
+      "decorLight": "Décor compact pour la maison ou le jardin",
+      "outfitsCouple": "Tenues de la mariée et du marié",
+      "outfitsFamily": "Tenues des parents et de la famille proche",
+      "accessories": "Accessoires, couronnes et bijoux",
+      "trays": "Plateaux de henné et bougies",
+      "ceremony": "Accompagnement de la cérémonie et des entrées",
+      "team": "Équipe d’habillage et de production le jour J",
+      "setup": "Installation et démontage sur place",
+      "fitting": "Séance d’essayage au studio",
+      "dresser": "Une habilleuse auprès de la mariée pendant la soirée"
+    },
+    "items": [
+      {
+        "name": "Production complète",
+        "text": "Tout au même endroit, du décor à la dernière danse."
+      },
+      {
+        "name": "Décor et mise en scène",
+        "text": "Pour les couples qui ont déjà leurs tenues et veulent un vrai décor marocain."
+      },
+      {
+        "name": "Tenues",
+        "text": "Notre collection, avec essayage et habilleuse."
+      },
+      {
+        "name": "Henné intime",
+        "text": "Pour une petite soirée à la maison : simple, chaleureuse et soignée."
+      }
+    ]
+  },
+  "outfits": {
+    "eyebrow": "La collection",
+    "title": "Les tenues de henné",
+    "text": "Caftans brodés main, velours, satin et perles, dans des couleurs inoubliables. Chaque tenue est livrée avec ses accessoires.",
+    "filters": {
+      "all": "Tout",
+      "mariee": "Mariée",
+      "marie": "Marié",
+      "famille": "Famille",
+      "enfants": "Enfants"
+    },
+    "empty": "Les photos de cette catégorie arrivent bientôt. En attendant, venez tout voir au studio.",
+    "cta": "Prendre rendez-vous pour un essayage",
+    "label": "Filtrer les tenues",
+    "more": "Voir toutes les tenues"
+  },
+  "blocks": [
+    {
+      "id": "tradition",
+      "eyebrow": "La tradition",
+      "title": "Un henné marocain comme chez grand-mère, en plus beau",
+      "text": "Le henné, c’est la soirée où la famille entoure la mariée. Nous gardons le rituel, les couleurs et les chants, et les habillons d’un décor d’aujourd’hui.",
+      "cta": "Voir les tenues"
+    },
+    {
+      "id": "design",
+      "eyebrow": "Le jour du henné",
+      "title": "De l’installation au dernier youyou",
+      "text": "Nous arrivons tôt, installons le coin de la mariée et les tables, vous habillons, vous et votre famille, et accompagnons les entrées et la cérémonie. Vous n’avez qu’à être là.",
+      "cta": "Nos productions"
+    },
+    {
+      "id": "meeting",
+      "eyebrow": "Avant la soirée",
+      "title": "On se rencontre, on essaie, on prépare",
+      "text": "Tout commence par un rendez-vous au studio : on fait connaissance, on essaie les tenues et on construit la soirée ensemble. Vous préférez la visio ? C’est possible aussi.",
+      "cta": "Vérifier une date"
+    }
+  ],
+  "events": {
+    "eyebrow": "Nos soirées",
+    "title": "Soirées henné récentes",
+    "text": "Chaque soirée est différente, chaque famille a son histoire. Des centaines d’autres moments vous attendent sur Instagram.",
+    "venues": {
+      "garden": "Henné dans un jardin de réception",
+      "pool": "Henné au bord de la piscine",
+      "hall": "Henné en salle",
+      "outdoor": "Henné à la belle étoile"
+    },
+    "guests": "{n} invités",
+    "more": "Plus de soirées sur Instagram"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Avec l’aide de Dieu, nous ferons et nous réussirons",
+    "p1": "Kineret est née de l’amour de la tradition marocaine et des moments qu’elle crée : la mariée en caftan, les youyous, la famille réunie autour du plateau de henné.",
+    "p2": "Tenues et productions complètes quittent notre studio avec un seul but : que votre soirée ressemble exactement à celle dont vous avez rêvé.",
+    "quote": "« Nous créons des moments marocains »",
+    "cta": "Prendre rendez-vous"
+  },
+  "stats": {
+    "followers": "abonnés Instagram",
+    "facebook": "abonnés Facebook",
+    "events": "soirées henné produites",
+    "posts": "publications"
+  },
+  "reviews": {
+    "eyebrow": "Ce que disent les mariées",
+    "title": "« Je suis entrée dans un conte marocain »",
+    "source": "Avis sur {source}, {date}",
+    "translated": "Traduit de l’hébreu",
+    "cta": "Tous les avis"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de réserver une date",
+    "items": [
+      {
+        "q": "Combien de temps à l’avance faut-il réserver ?",
+        "a": "Dès que vous avez la date du mariage. En saison, les dates partent vite : mieux vaut vérifier la disponibilité le plus tôt possible."
+      },
+      {
+        "q": "Quelles régions couvrez-vous ?",
+        "a": "Dites-nous où aura lieu la soirée, nous vérifierons ensemble la disponibilité et le déplacement."
+      },
+      {
+        "q": "Combien de tenues sont incluses ?",
+        "a": "Cela dépend de la formule et de la taille de la famille. Lors du rendez-vous, nous choisissons ensemble les tenues de la mariée, du marié et de la famille."
+      },
+      {
+        "q": "Les tenues sont-elles louées ou vendues ?",
+        "a": "Les tenues font partie de la production de la soirée henné. Une question sur une pièce en particulier ? Écrivez-nous."
+      },
+      {
+        "q": "Peut-on venir essayer ?",
+        "a": "Bien sûr. Les essayages ont lieu au studio, sur rendez-vous, pour que chaque tenue vous aille parfaitement."
+      },
+      {
+        "q": "Comment réserver une date ?",
+        "a": "Après le rendez-vous et le choix de la formule, la date est bloquée avec un acompte. Nous réglons tous les détails ensemble."
+      }
+    ]
+  },
+  "book": {
+    "eyebrow": "Vérifier une date",
+    "title": "Parlez-nous de votre soirée henné",
+    "text": "Quelques informations, et le message nous arrive sur WhatsApp. Nous revenons vers vous avec les disponibilités et un devis.",
+    "steps": {
+      "event": "La soirée",
+      "wishes": "Vos envies",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "date": "Date du henné",
+      "dateTaken": "Cette date est déjà réservée. Écrivez-nous quand même, il y a peut-être une solution.",
+      "dateFree": "Cette date est encore libre.",
+      "venue": "Lieu de la soirée",
+      "venues": {
+        "hall": "Salle ou jardin de réception",
+        "home": "À la maison",
+        "outdoor": "En extérieur"
+      },
+      "city": "Ville",
+      "cityPlaceholder": "ex. Rishon LeZion",
+      "guests": "Nombre d’invités",
+      "formula": "Ce que vous souhaitez",
+      "formulas": {
+        "full": "Production complète",
+        "decor": "Décor",
+        "outfits": "Tenues",
+        "intimate": "Henné intime",
+        "unsure": "Je ne sais pas encore"
+      },
+      "outfitsCount": "Nombre de tenues approximatif",
+      "budget": "Budget",
+      "budgetPlaceholder": "Facultatif",
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "message": "Ce qui compte pour vous",
+      "messagePlaceholder": "Couleurs, style, nombre d’entrées…",
+      "optional": "facultatif"
+    },
+    "required": "Champ obligatoire",
+    "invalidPhone": "Ce numéro ne semble pas valide",
+    "submit": "Envoyer sur WhatsApp",
+    "hint": "Rien n’est enregistré sur le site. Le message s’ouvre dans WhatsApp et c’est vous qui l’envoyez.",
+    "success": {
+      "thanks": "Merci",
+      "title": "Votre message est prêt dans WhatsApp",
+      "text": "Si WhatsApp ne s’est pas ouvert, touchez le bouton. Nous vous répondons rapidement.",
+      "again": "Ouvrir WhatsApp",
+      "reset": "Vérifier une autre date"
+    },
+    "message": {
+      "title": "Demande de date – soirée henné",
+      "date": "Date",
+      "venue": "Lieu",
+      "city": "Ville",
+      "guests": "Invités",
+      "formula": "Intéressée par",
+      "outfits": "Tenues (environ)",
+      "budget": "Budget",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "message": "Message",
+      "closing": "Envoyé depuis le site de Kineret, soirées henné"
+    }
+  },
+  "mobile": {
+    "check": "Vérifier une date",
+    "whatsapp": "WhatsApp"
+  },
+  "whatsapp": {
+    "hello": "Bonjour Kineret, j’aimerais en savoir plus sur la production d’une soirée henné",
+    "float": "Nous écrire sur WhatsApp"
+  },
+  "footer": {
+    "tagline": "Production de henné marocain, tenues et décor. Nous créons des moments marocains.",
+    "contact": "Contact",
+    "explore": "Sur le site",
+    "studio": "Studio à {city}, sur rendez-vous",
+    "rights": "Tous droits réservés",
+    "photos": "Toutes les photos du site viennent des soirées et productions de Kineret",
+    "legal": "Mentions légales"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "back": "Retour à l’accueil",
+    "items": [
+      {
+        "h": "Éditrice du site",
+        "p": "Kineret – כנרת אירועי חינה. Téléphone : +972 54-808-2038. Coordonnées complètes de l’entreprise : à compléter."
+      },
+      {
+        "h": "Hébergement",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis."
+      },
+      {
+        "h": "Données personnelles",
+        "p": "Le site ne collecte ni ne conserve aucune donnée personnelle. Le formulaire prépare seulement un message WhatsApp que vous envoyez vous-même. Aucun cookie de suivi."
+      },
+      {
+        "h": "Photos",
+        "p": "Toutes les photos appartiennent à Kineret et aux photographes qui ont travaillé avec elle. Toute reproduction est interdite sans autorisation."
+      }
+    ]
+  },
+  "alt": {
+    "kaftan-arche": "Mariée en caftan blanc brodé de fleurs devant une arche marocaine terracotta",
+    "tente-rouge": "Deux femmes en blanc sur un fauteuil royal rouge, sous une tente de henné aux rideaux rouges",
+    "kaftan-blanc-brode": "Long caftan blanc brodé de fleurs colorées",
+    "robe-perlee-argent": "Robe perlée argent décolletée, près d’une table de douceurs marocaines",
+    "takchita-rouge": "Takchita rouge galonnée d’or aux manches amples",
+    "velours-emeraude": "Ensemble en velours émeraude, haut et jupe nouée",
+    "jupe-perlee-rose": "Haut en satin rose et jupe perlée multicolore devant un mur en terre",
+    "ensemble-safran": "Ensemble jaune safran avec cape et galons perlés",
+    "cape-franges-or": "Cape à franges dorées sur une jupe noire",
+    "resille-perlee-blanche": "Tenue en résille blanche perlée devant une porte marocaine",
+    "caftan-ciel": "Long caftan bleu ciel à bretelles perlées",
+    "drape-perle-rose": "Robe rose fluide et perlée devant un mur peint",
+    "manteau-bordeaux-or": "Manteau bordeaux brodé d’or sur un ensemble couleur sable",
+    "bustier-or-jupe-tissee": "Bustier doré et jupe tissée à rayures",
+    "caftan-ivoire-traine": "Caftan ivoire à traîne brodé d’or dans un riad",
+    "satin-dore-drape": "Ensemble en satin doré drapé devant une porte en bois sculpté",
+    "kaftan-vert-brode": "Caftan vert foncé brodé d’or, de nuit",
+    "jupe-plumes-rose": "Jupe à plumes rose poudré et top perlé sur un tapis marocain",
+    "caftan-pastel-raye": "Long caftan à rayures pastel brodées sur fond jaune",
+    "ensemble-anis-brode": "Ensemble vert anis brodé avec cape, sur un fauteuil doré",
+    "caftan-creme-manches": "Caftan crème à manches amples et ceinture brodée",
+    "turban-perle-nude": "Ensemble nude perlé avec turban",
+    "cape-blanche-ecuries": "Ample robe-cape blanche brodée de rose",
+    "dentelle-blanche-traine": "Ensemble en dentelle blanche à longue traîne",
+    "imprime-bleu-trone": "Robe imprimée bleu et blanc devant un fauteuil éventail doré",
+    "resille-cristal": "Robe en résille de cristaux aux reflets roses",
+    "couple-djellaba-safran": "Marié en djellaba blanche et mariée en ensemble jaune safran",
+    "couple-gandoura-plumes": "Marié en gandoura blanche et fez, mariée en jupe à plumes",
+    "couple-brode-ivoire": "Mariés en tenues ivoire brodées",
+    "marie-manteau-tisse": "Manteau tissé multicolore devant un mur de pierre",
+    "marie-manteau-detail": "Détail d’un manteau tissé brodé en hébreu",
+    "table-douceurs-lanternes": "Table de douceurs marocaines, lanternes en cuivre et mur végétal",
+    "trone-voilages": "Fauteuil de mariée blanc sous des voilages turquoise et cuivre",
+    "coussins-arches-blanches": "Coussins blancs sur un tapis devant des arches marocaines blanches",
+    "table-piscine": "Longue table dressée au bord de la piscine",
+    "salon-moucharabieh": "Salon blanc, paravents marocains et tables rondes",
+    "plateaux-lanternes": "Plateaux de douceurs éclairés sous des dizaines de lanternes marocaines",
+    "salle-lanternes": "Salle de henné, lanternes suspendues et tables dressées",
+    "trone-eventail-or": "Fauteuil éventail doré dans le coin de la mariée",
+    "soiree-piscine-lustres": "Tables rondes et lustres au bord d’une piscine, soirée henné",
+    "arches-blanches-piscine": "Arches marocaines blanches au bord d’une piscine",
+    "soiree-safran": "Couple en tenues blanche et safran lors d’un henné en plein air",
+    "nuit-bougies-tapis": "Mariée en jupe à plumes au bord d’une piscine éclairée de bougies",
+    "grande-salle-lanternes": "Grande salle avec lanternes et tables de douceurs",
+    "salon-blanc-couple": "Couple en tenues brodées dans un salon marocain blanc",
+    "riad-caftan-blanc": "Caftan blanc dans un riad aux zelliges",
+    "porte-sculptee": "Caftan blanc devant une porte en bois sculpté",
+    "broderie-or-portrait": "Détail de broderie dorée sur un caftan blanc",
+    "atelier-tissus": "Atelier de tissus au Maroc",
+    "arche-desert": "Arche en terre dans le désert",
+    "arche-ocre": "Tenue brune scintillante sous une arche en terre",
+    "showroom-logo": "Robe blanche devant le logo Kineret au studio",
+    "bracelets-mains": "Bracelets dorés aux mains de la mariée",
+    "satin-mer": "Caftan en satin ivoire face à la mer au coucher du soleil"
+  }
+}

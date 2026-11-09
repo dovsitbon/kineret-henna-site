@@ -1,0 +1,11 @@
+{
+  "_note": "Soirées produites. couple, place et guests À REMPLIR avec Kineret (null = non affiché). venue : garden | pool | hall | outdoor (type de lieu visible sur la photo), titre dans locales → events.venues.",
+  "items": [
+    { "id": "piscine-lustres", "image": "/media/soirees/soiree-piscine-lustres.jpg", "venue": "pool", "couple": null, "place": null, "guests": null },
+    { "id": "safran", "image": "/media/soirees/soiree-safran.jpg", "venue": "outdoor", "couple": null, "place": null, "guests": null },
+    { "id": "grande-salle", "image": "/media/soirees/grande-salle-lanternes.jpg", "venue": "hall", "couple": null, "place": null, "guests": null },
+    { "id": "bougies", "image": "/media/soirees/nuit-bougies-tapis.jpg", "venue": "pool", "couple": null, "place": null, "guests": null },
+    { "id": "arches-blanches", "image": "/media/soirees/arches-blanches-piscine.jpg", "venue": "garden", "couple": null, "place": null, "guests": null },
+    { "id": "salon-blanc", "image": "/media/soirees/salon-blanc-couple.jpg", "venue": "hall", "couple": null, "place": null, "guests": null }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "_note": "Bandeau d'infos pratiques (fermable). Passer active à false pour le masquer ; changer id pour le réafficher à tous. Texte À CONFIRMER avec Kineret.",
+  "id": "2027-dates",
+  "active": true,
+  "text": {
+    "he": "התאריכים לעונת החינות 2027 נפתחו · מדידות בסטודיו בתיאום מראש",
+    "en": "2027 henna season dates are open · Studio fittings by appointment",
+    "fr": "Dates de la saison 2027 ouvertes · Essayages au studio sur rendez-vous",
+    "es": "Fechas de la temporada 2027 abiertas · Pruebas en el estudio con cita"
+  }
+}
